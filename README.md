@@ -6,3 +6,5 @@ for downloading images
 grid =~ flex wrap
 
 tailwind follows mobile first
+
+2er besi hole grid better
